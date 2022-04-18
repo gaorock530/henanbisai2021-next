@@ -40,7 +40,7 @@ export default function Home() {
 
       <header>
         <img src="/img/getheadimg.jpeg"  />
-        <p>中原青少年艺术比赛网</p>
+        <p>影袭科技</p>
       </header>
 
       <main className={styles.main}>
@@ -104,7 +104,7 @@ export default function Home() {
             <div className={styles.pageWrapper}>
               <div className={styles.pageContent}>
                 <footer>
-                  <p><span>影袭科技 © 2017-2021</span><span>All rights reserved.</span></p>
+                  <p><span>影袭网络技术有限公司 © 2017-2022</span><span>All rights reserved.</span></p>
                   <p><a href="https://beian.miit.gov.cn/#/Integrated/index">豫ICP备18021827号</a></p>
                 </footer>
               </div>
