@@ -68,7 +68,7 @@ export default function Home() {
                 </p>
               </div>
               <div className={styles.pageMask}></div>
-              <img className={styles.bgImg} src="/img/1.jpeg" />
+              <img className={styles.bgImg} src="/img/1.jpg" />
             </div>
           </SwiperSlide>
           <SwiperSlide>
@@ -79,7 +79,7 @@ export default function Home() {
                 </p>
               </div>
               <div className={styles.pageMask}></div>
-              <img className={styles.bgImg} src="/img/2.jpeg" />
+              <img className={styles.bgImg} src="/img/2.jpg" />
             </div>
           </SwiperSlide>
           <SwiperSlide>
@@ -97,7 +97,7 @@ export default function Home() {
                 </form>
               </div>
               <div className={styles.pageMask}></div>
-              <img className={styles.bgImg} src="/img/3.jpeg" />
+              <img className={styles.bgImg} src="/img/3.jpg" />
             </div>
           </SwiperSlide>
           <SwiperSlide>
@@ -109,7 +109,7 @@ export default function Home() {
                 </footer>
               </div>
               <div className={styles.pageMask}></div>
-              <img className={styles.bgImg} src="/img/4.jpeg" />
+              <img className={styles.bgImg} src="/img/4.jpg" />
             </div>
           </SwiperSlide>
 
