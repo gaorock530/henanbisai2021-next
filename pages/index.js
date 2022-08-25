@@ -33,7 +33,7 @@ export default function Home() {
   return (
     <div>
       <Head>
-        <title>中原青少年艺术比赛网</title>
+        <title>影袭科技</title>
         <meta name="description" content="henanbisai yingxitech" />
         <link rel="icon" href="/favicon.ico" />
       </Head>
