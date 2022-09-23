@@ -14,9 +14,9 @@ module.exports = {
     watch: false, // 文件有改变则重启,用于调试
 
     max_memory_restart: "300M", // 如果超出内存量，重新启动应用
-    // env: {
-    //   NODE_ENV: "development",
-    // },
+    env: {
+      NODE_ENV: "production",
+    },
     env_production: {
       NODE_ENV: "production",
     }
