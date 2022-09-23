@@ -15,9 +15,11 @@ module.exports = {
 
     max_memory_restart: "300M", // 如果超出内存量，重新启动应用
     env: {
+      PORT: 3030,
       NODE_ENV: "development",
     },
     env_production: {
+      PORT: 3030,
       NODE_ENV: "production",
     }
   }]
