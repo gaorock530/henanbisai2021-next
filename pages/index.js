@@ -36,6 +36,7 @@ export default function Home() {
         <title>影袭科技</title>
         <meta name="description" content="henanbisai yingxitech" />
         <link rel="icon" href="/favicon.ico" />
+        <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-5909087805487908" crossorigin="anonymous"></script>
       </Head>
 
       <header>
