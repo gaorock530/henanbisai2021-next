@@ -37,6 +37,7 @@ export default function Home() {
         <meta name="description" content="henanbisai yingxitech" />
         <link rel="icon" href="/favicon.ico" />
         <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-5909087805487908" crossorigin="anonymous"></script>
+        <script async custom-element="amp-ad" src="https://cdn.ampproject.org/v0/amp-ad-0.1.js"></script>
       </Head>
 
       <header>
@@ -104,6 +105,14 @@ export default function Home() {
           <SwiperSlide>
             <div className={styles.pageWrapper}>
               <div className={styles.pageContent}>
+                <amp-ad width="100vw" height="320"
+                    type="adsense"
+                    data-ad-client="ca-pub-5909087805487908"
+                    data-ad-slot="1118547492"
+                    data-auto-format="rspv"
+                    data-full-width="">
+                  <div overflow=""></div>
+                </amp-ad>
                 <footer>
                   <p><span>影袭网络技术有限公司 © 2017-2022</span><span>All rights reserved.</span></p>
                   <p><a href="https://beian.miit.gov.cn/#/Integrated/index">豫ICP备18021827号</a></p>
